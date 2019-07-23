@@ -1,5 +1,5 @@
 # tachyons-wordpress-theme
-As a regular user of the Tachyons CSS Framework and WordPress Developer I am sharing the base file I use for all my current themes with you.
+A Basic Wordpress Theme built on the Tachyons CSS Framework.
 
 ## Features
 * Content Filter to Add Line Height Classes
